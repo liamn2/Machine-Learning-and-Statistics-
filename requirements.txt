@@ -1,0 +1,4 @@
+Installations Required:
+matplotlib module will need to be installed from the Anaconda terminal for Python 3 using the following command: 
+'pip3 install matplotlib'
+Statsmodels, numpy and pandas will all need to be installed this way too by typing in the terminal 'pip3 install X' where X is the module names respectively. 

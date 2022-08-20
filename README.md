@@ -9,6 +9,7 @@ The following repository exists to illustrate the use and process of performing 
 ---------------------------------------------------------
 Contents of repository:
 2 Jupyter Notebooks:
+
 1.) scikit-learn repeat: A notebook describing the scikit-learn Python module. 
 
 2.) anova repeat: A notebook illustrating a particluar case of using the ANOVA one-way test to identify a difference in independent variables.

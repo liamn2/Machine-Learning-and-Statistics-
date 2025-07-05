@@ -1,12 +1,10 @@
 # Machine-Learning-and-Statistics-Repeat
 Name: Liam Nutley
-Student ID: G00326421
 Module: Machine Learning and Statistics
 
 Notes:
----------------------------------------------------------
 The following repository exists to illustrate the use and process of performing an analysis of variance (ANOVA) test on two or more independent variables to see if there is a difference in between their averages. The other notebook describes the use of the Scitkit-learn module in Python. 
----------------------------------------------------------
+
 Contents of repository:
 2 Jupyter Notebooks:
 
